@@ -1,0 +1,1 @@
+select NAME from CITY Where population > 120000 AND COUNTRYCODE = 'USA';
